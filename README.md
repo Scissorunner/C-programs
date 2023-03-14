@@ -1,1 +1,1 @@
-Ohms law calculator
+Collection of programs written in C
