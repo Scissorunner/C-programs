@@ -1,1 +1,1 @@
-# C-programs
+Ohms law calculator
