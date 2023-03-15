@@ -1,1 +1,1 @@
-Collection of programs written in C
+Collection of simple beginner programs written in C
