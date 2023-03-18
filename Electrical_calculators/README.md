@@ -1,2 +1,2 @@
 # Electrical calculation programs
-Mostly used for DC aplications
+Mostly used for DC applications
